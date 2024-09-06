@@ -50,12 +50,5 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
     * **Filtragem:** Permite filtrar os resultados por critérios específicos, como modalidade, idade, etc.
     * **Detalhes da atleta:** Ao clicar no nome da atleta, exibe mais informações detalhadas.
 
-**Agradecimentos**
-
-Agradeço a todos que contribuíram para este projeto.
-
-**Daniel Kilzer**
-**danielkilzer@yahoo.com.br**
-
 **#html #css #javascript #webdev #atletismo #ginásticaartística**
 ```
